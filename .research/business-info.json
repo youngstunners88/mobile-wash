@@ -1,0 +1,20 @@
+{
+  "businessName": "Mobile Wash",
+  "category": "auto",
+  "brandColors": {
+    "primary": "#D63031",
+    "secondary": "#FF7675",
+    "accent": "#FDCB6E",
+    "dark": "#B71540",
+    "light": "#FFF0F0"
+  },
+  "tagline": "Love Your Car Again",
+  "services": [
+    "Car Wash",
+    "Detailing",
+    "Interior Cleaning",
+    "Waxing",
+    "Engine Cleaning",
+    "Paint Protection"
+  ]
+}
